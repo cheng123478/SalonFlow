@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# 系统 / 日志
+.DS_Store
+*.log
+
+# 运行期数据（用户上传文件、本地数据库）
+backend/uploads/
+*.db
+*.sqlite
+*.sqlite3
+
+# 环境变量本地副本（保留 .env.example）
+.env.local
+.env.*.local
+
+# 测试 / 覆盖率
+.pytest_cache/
+.coverage
+htmlcov/
+coverage/
+
+# 构建产物补充
+*.egg-info/
+*.tsbuildinfo
+Thumbs.db

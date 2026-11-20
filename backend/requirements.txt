@@ -1,0 +1,24 @@
+# ---- 阶段 0/1：脚手架 + 登录（当前所需） ----
+fastapi>=0.115
+uvicorn[standard]>=0.30
+sqlalchemy[asyncio]>=2.0
+aiomysql>=0.2
+pydantic>=2.7
+pydantic-settings>=2.3
+PyJWT>=2.8
+bcrypt>=4.1
+python-multipart>=0.0.9
+
+# ---- 阶段 3+：Agent 编排 / RAG（后续按需追加） ----
+langgraph>=0.2
+langchain-core>=0.3
+langchain-openai>=0.2
+sse-starlette>=1.8
+httpx>=0.27
+# 阶段 5 说明：RAG 直连 Qdrant REST API + SiliconFlow embedding（用 httpx），
+# 未用 langchain-qdrant / qdrant-client —— 它们与当前 pydantic 2.14 / openai 3.x 有依赖冲突。
+# langchain-qdrant
+# qdrant-client
+
+# ---- 阶段 7：Excel 导出（报表） ----
+openpyxl>=3.1

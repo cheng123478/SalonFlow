@@ -16,7 +16,16 @@
 
 ## 界面预览
 
-> 截图待补充：登录页 / 经营看板 / Agent 悬浮窗对话 / 知识库管理 / 报表导出
+> 登录页<img width="1050" height="668" alt="屏幕截图 2026-11-20 190228" src="https://github.com/user-attachments/assets/e76d6cc1-0057-45c4-af9a-dabfd683f221" />
+
+> 经营看板<img width="1886" height="926" alt="屏幕截图 2026-11-20 185647" src="https://github.com/user-attachments/assets/582af63e-09ee-4573-8707-80a93895ec97" />
+> Agent 悬浮窗对话<img width="1850" height="883" alt="屏幕截图 2026-11-20 185732" src="https://github.com/user-attachments/assets/353d32cf-1e69-43d1-8210-6d1dba75dfc7" />
+<img width="1155" height="702" alt="屏幕截图 2026-11-20 190149" src="https://github.com/user-attachments/assets/ce560174-ade7-40d9-b14b-88a352a3c6ce" />
+<img width="747" height="497" alt="屏幕截图 2026-11-20 190448" src="https://github.com/user-attachments/assets/bfcdd77b-5704-4ec5-adca-20b85a6df795" />
+<img width="1207" height="362" alt="屏幕截图 2026-11-20 190514" src="https://github.com/user-attachments/assets/769279fb-cb63-40a4-bb14-473606fc9ebe" />
+>知识库管理 <img width="1862" height="842" alt="屏幕截图 2026-11-20 185828" src="https://github.com/user-attachments/assets/b495729d-cc83-4c69-9fb1-eb3bd31e9f02" />
+> 报表导出<img width="256" height="235" alt="屏幕截图 2026-11-20 191042" src="https://github.com/user-attachments/assets/ed2301d4-b68c-428a-8cea-680a929e9b58" />
+<img width="990" height="260" alt="屏幕截图 2026-11-20 191037" src="https://github.com/user-attachments/assets/f2e3d6f7-86b4-4166-a056-8fde221b613f" />
 
 ## 功能
 
